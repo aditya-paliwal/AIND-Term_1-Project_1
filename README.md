@@ -34,4 +34,4 @@ To visualize our solution, please only assign values to the values_dict using th
 
 ### Data
 
-The data consists of a text file of diagonal sudokus for you to solve.
+The data consists of a text file of diagonal sudokus, provided for us to solve.
