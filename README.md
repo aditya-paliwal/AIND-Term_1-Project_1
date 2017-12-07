@@ -17,8 +17,7 @@ A: Add the 2 diagonal units to the unitlist. This will result in additional unit
 
 This project requires **Python 3**.
 
-Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
-Please try using the environment we provided in the Anaconda lesson of the Nanodegree.
+Installed [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 
 ### Code
@@ -28,9 +27,6 @@ Please try using the environment we provided in the Anaconda lesson of the Nanod
 * `PySudoku.py` - Do not modify this. This is code for visualizing our solution.
 * `visualize.py` - Do not modify this. This is code for visualizing our solution.
 
-### Visualizing
-
-To visualize our solution, please only assign values to the values_dict using the ```assign_values``` function provided in solution.py
 
 ### Data
 
