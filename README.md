@@ -30,4 +30,4 @@ Installed [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python 
 
 ### Data
 
-The data consists of a text file of diagonal sudokus, provided for us to solve.
+The data consists of a text file of diagonal sudokus, provided for the students to solve.
